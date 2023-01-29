@@ -2,13 +2,13 @@
    font-family: 'Myriad Pro';
    font-style: normal;
    font-weight: normal;
-   src: local('Myriad Pro Regular'), url(/макетДз/fons/MYRIADPRO-REGULAR.OTF) format('woff');
+   src: local('Myriad Pro Regular'), url(fons/MYRIADPRO-REGULAR.OTF) format('woff');
 }
 @font-face {
    font-family: 'Myriad Prob';
    font-style: 700;
    font-weight: normal;
-   src: local('Myriad Pro Bold'), url(/макетДз/fons/MYRIADPRO-BOLD.OTF) format('woff');
+   src: local('Myriad Pro Bold'), url(fons/MYRIADPRO-BOLD.OTF) format('woff');
 }
 *{
    font-family: 'Myriad Pro' ;
